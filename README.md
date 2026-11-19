@@ -1,8 +1,20 @@
-# The World in One Day — Thursday 19 November 2026
+# news-image-20261119
 
-A newspaper-front-page image summing up the world's news of
-Thursday 19 November 2026, drawn with PIL by `draw.py` and shipped as
-`entry.png`. `main.py` copies it to the grader's output directory.
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/kharlla273/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/kharlla273/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+The World in One Day — Thursday 19 November 2026. A newspaper-style front page summing up 19 November 2026 in one image (1024×1024 PNG, 133,018 B): GTA VI launches worldwide after 13 years, House Democrats nominate Hakeem Jeffries for Speaker, the ICJ delivers its Myanmar/Rohingya judgment, Trump–Xi–Putin hold trilateral talks in Shenzhen, Cyclone Akvan nears India's east coast, Iran widens its Gulf attacks, and Voyager 1 reaches one light-day from Earth.
+
+## Run it
+
+```sh
+MAKEFUN_OUTPUT_DIR=./output python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=n305kcfc&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
 
 ## Stories covered
 
